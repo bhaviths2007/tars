@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tars/static/css/main.9d37530b.css",
+    "main.js": "/tars/static/js/main.7c082c18.js",
+    "index.html": "/tars/index.html",
+    "main.9d37530b.css.map": "/tars/static/css/main.9d37530b.css.map",
+    "main.7c082c18.js.map": "/tars/static/js/main.7c082c18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d37530b.css",
+    "static/js/main.7c082c18.js"
+  ]
+}
