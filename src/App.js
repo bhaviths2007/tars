@@ -291,8 +291,130 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="face grey-bg" id="right"></div>
-      <div className="face grey-bg" id="left"></div>
+      <div className="face" id="right">
+        <div className="arms">
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+          <div className="grey-bg"></div>
+          <div className="grey-bg"></div>
+          <div className="grey-bg"></div>
+          <div className="grey-bg"></div>
+        </div>
+        <div className="legs">
+          <div className="grey-bg"></div>
+          <div className="grey-bg"></div>
+          <div className="grey-bg"></div>
+          <div className="grey-bg"></div>
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+        </div>
+      </div>
+      <div className="face" id="left">
+        <div className="arms">
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+          <div className="grey-bg"></div>
+          <div className="grey-bg"></div>
+          <div className="grey-bg"></div>
+          <div className="grey-bg"></div>
+        </div>
+        <div className="legs">
+          <div className="grey-bg"></div>
+          <div className="grey-bg"></div>
+          <div className="grey-bg"></div>
+          <div className="grey-bg"></div>
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+          <div className="fingers">
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+            <div className="grey-bg"></div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
